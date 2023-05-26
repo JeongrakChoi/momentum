@@ -2,7 +2,7 @@
 
 ![screen](./images/screen.jpg)
 
-바닐라JS로 크롬 앱 만들기
+바닐라JS로 만든 크롬 앱
 
 ## 기능
 
